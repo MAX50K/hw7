@@ -2,6 +2,14 @@
     --link-color: red;
 }
 
-.li{
+
+a[href="https://www.youtube.com/"]{
     color: var(--link-color);
+}
+a[href="https://validator.w3.org/"]{
+    color: var(--link-color);
+}
+
+p{
+    font-size: 24px;
 }
